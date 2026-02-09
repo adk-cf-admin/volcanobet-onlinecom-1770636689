@@ -1,0 +1,19 @@
+{
+  "name": "Volcanobet",
+  "short_name": "Volcanobet",
+  "theme_color": "",
+  "background_color": "#000000",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1770635670-faviconvolcano.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
